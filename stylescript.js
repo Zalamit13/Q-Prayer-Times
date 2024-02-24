@@ -196,11 +196,11 @@ function updatePrayerWithCoordinates(latitude, longitude) {
   console.log('Updating prayer times with coordinates:', latitude, longitude);
 
   // Set the calculation method
-  prayTimes.setMethod('MWL');
+  prayTimes.setMethod('Makkah');
 
   // Set the coordinates, timezone, and format
   const coordinates = [parseFloat(latitude), parseFloat(longitude)];
-  const timezone = 1; // Algeria's timezone is GMT+1
+  const timezone = 3; // Algeria's timezone is GMT+1
   const format = '24h';
 
   // Get today's date
