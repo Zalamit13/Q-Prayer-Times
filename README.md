@@ -1,15 +1,7 @@
-# Algeria Prayer Times
-A website that displays prayer times in Algeria based on its states.
+# Qatar Prayer Times
+A website that displays prayer times in Qatar based on location. This website is a replication of [Algeria prayer times website](https://algprayertimes.netlify.app). You can check its Github repository [here](https://github.com/Zalamit13/PrayerTime)
 
-![Desktop version 1](https://github.com/Zalamit13/PrayerTime/blob/main/Resources/prayertimes%20desktop%20version.png?raw=true)
-
-![Tab version 1](https://github.com/Zalamit13/PrayerTime/blob/main/Resources/Galaxy%20Fold%20Tablet%20mockup.jpg?raw=true)
-
-![phone version 1](https://github.com/Zalamit13/PrayerTime/blob/main/Resources/phone%20mockup.jpg?raw=true)
-
-![Laptop + phone mockup](https://github.com/Zalamit13/PrayerTime/blob/main/Resources/laptop%20and%20phone%20mockups.jpg?raw=true)
-
-## [Live Demo](https://algprayertimes.netlify.app)
+## [Live Demo](https://qprayertimes.netlify.app/)
 
 ## Built with:
 + HTML/CSS
@@ -18,8 +10,7 @@ A website that displays prayer times in Algeria based on its states.
 
 ## Methods and features:
 + Prayer times javascript library, [From this website](http://praytimes.org).
-+ Muslim World League calculation method.
-+ Manual (48 states of Algeria) and auto-location.
++ Makkah - Umm al Qura calculation method.
 + Arabic and English versions
 
 ## What i learned:
